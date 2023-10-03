@@ -9,4 +9,5 @@ Screenshots: N/A.
 Technology used: MERN. 
 
 Features: This current project is an "outline", I will be refactoring it and fixing any bugs I encountered.
+
 License: MIT
